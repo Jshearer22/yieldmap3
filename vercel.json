@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    { "source": "/api/anthropic", "destination": "/api/anthropic.js" }
+  ]
+}
+```
+
+Click **Commit new file**.
+
+---
+
+**Fix 3 — Delete the `anthropic.js` at the root**
+
+Click on `anthropic.js` in the file list → click the **trash icon** → commit.
+
+When done your repo should show:
+```
+api/
+index.html
+vercel.json
