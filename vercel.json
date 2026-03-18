@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/anthropic", "destination": "/api/anthropic.js" }
-  ]
-}
